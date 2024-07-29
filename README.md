@@ -26,3 +26,7 @@ comandos antes de rodar:
 
 npm install --save-dev jest
 npm test
+
+Questão 2.
+
+
