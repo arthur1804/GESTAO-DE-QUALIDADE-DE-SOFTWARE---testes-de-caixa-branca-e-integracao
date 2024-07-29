@@ -31,4 +31,23 @@ npm test
 
 Questão 2.
 
+Estrutura do Projeto:
+
+    Criação de um novo diretório de projeto chamado api-entregas.
+    Adição das pastas src e tests.
+
+Implementação da API:
+
+    src/index.js: Configuração do servidor Express.
+    src/routes.js: Definição das rotas da API.
+    src/utils.js: Implementação das funções utilitárias (verificarMelhorRota e calcularDistancia).
+
+Testes de Integração:
+
+    tests/api.test.js: Criação de testes de integração para as rotas da API usando jest e supertest.
+
+Execução dos Testes:
+
+    Uso do comando npm test para rodar os testes, que foram todos aprovados.
+
 
