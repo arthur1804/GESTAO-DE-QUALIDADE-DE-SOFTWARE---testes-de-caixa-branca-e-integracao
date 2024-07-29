@@ -1,6 +1,8 @@
 # GESTAO-DE-QUALIDADE-DE-SOFTWARE---testes-de-caixa-branca-e-integracao
 AVALIAÇÃO UNIDADE II
 
+INSTALE OS NODE_MODULES ANTES DE TESTAR QUALQUER COISA: npm install --save-dev jest
+
 Questão 1.
 
 Função calcularDistancia
